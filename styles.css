@@ -145,3 +145,77 @@ ul {
     font-size: 14px;
 }
 
+.bottom-pages {
+    display: flex;
+    justify-content: center;
+}
+
+.bottom-pages li {
+    margin: 9px;
+}
+
+.bottom-pages li a {
+    text-decoration: none; 
+    color: #3a8e52;
+    padding: 5px;
+    font-size: 14px;
+}
+
+.under-bottom-pages {
+    text-align: center;
+    color: #787d81;
+    font-size: 14px;
+}
+
+.location-search {
+    display: flex;
+    justify-content: center;
+}
+
+.location-search a {
+    text-decoration: none;
+    margin: 9px;
+    font-size: 14px;
+    color: #3a8e52;
+}
+
+.real-estate-insights {
+    padding: 10px;
+}
+
+.real-estate-insights p {
+    padding: 0px 20px 20px 20px;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.change-color {
+    color: #3a8e52;
+}
+
+footer {
+    background-color: #474E52;
+}
+
+.footer-nav {
+    display: flex;
+    padding: 20px 0px 0px 30px;
+   
+}
+
+.footer-nav li {
+    margin: 5px;
+}
+
+.footer-nav li a {
+    text-decoration: none;
+    color: #b1b6bb;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.copyright {
+    color: #b1b6bb;
+    font-size: 10px;
+}
+
