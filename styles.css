@@ -74,7 +74,7 @@ main {
 
 .trulia-grid-item {
    box-shadow: 1px grey;
-    height: 300px;
+    height: 100%;
     border-radius: 9px;
     border-bottom-right-radius: inherit;
 }
